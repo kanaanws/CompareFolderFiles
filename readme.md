@@ -1,6 +1,9 @@
 #Compare Folder Files
 
-This application compares two folders to find missing files or folders between them. This is a utility created to verify a backup or copy of files where some files are not copied. This is a simple applcation where the only functionality is the comparison. If future updates are done copying files will be added. 
+This application compares two folders to find missing files or folders between them. This is a utility created to verify a backup or copy of files where some files are not copied. 
+This is a simple applcation to compare the source and destination folders and find files that are not present in the destination folders. 
+
+RIGHT CLICK a file name to copy the file from the source to destination or to copy all files in one go.
 
 # License 
 
